@@ -1,0 +1,2 @@
+ID             NAME                     MODE         REPLICAS   IMAGE                               PORTS
+shsov4b776bg   text_processor_service   replicated   2/2        manasaanuga/text_processor:latest   
